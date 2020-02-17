@@ -13,6 +13,7 @@ namespace ConsoleApp1
         {
             return (num / (double)avrage);
         }
+
         static void Main(string[] args)
         {
             Console.WriteLine("please enter a real number above 0");
